@@ -1,0 +1,27 @@
+{
+  "name": "pizza/time",
+  "description": "Test Project",
+  "type": "project",
+  "license": "Free",
+  "authors": [
+    {
+      "name": "Oleg Valahanovich",
+      "email": "oleg_valahanovich@mail.ru"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Classes\\": "classes/",
+      "Interfaces\\": "Interfaces/"
+    },
+    "files": [
+
+    ]
+  }
+}
+
+
